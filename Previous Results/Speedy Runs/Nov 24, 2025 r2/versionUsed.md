@@ -1,11 +1,11 @@
-The version of NewMemoizedCrazy.py that was used to generate these graphs can be found [here.](https://github.com/bananathrowingmachine/FastPartitionExperiment/blob/5afa693090959ec3d51655d55ba5a5836d8a471c/experiment_code/versions/NewMemoizedCrazy.py)
+The version of NewMemoizedCrazy.py that was used to generate these graphs can be found [here.](https://github.com/bananathrowingmachine/FastPartitionExperiment/blob/7d97eb392eee25ff77d008736de12102b087b23b/experiment_code/versions/NewMemoizedCrazy.py)
 
 When run through MemoCrazyEdgeCases.py it returned with this:
 
 ```
 100
 [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-(11375, True, 'Correct')
+(50, True, 'Correct')
 max = 1267650600228229401496703205376
 
 50
@@ -30,15 +30,15 @@ max = 1267650600228229401496703205376
 
 8
 [11, 13, 17, 19, 29, 31, 41, 43]
-(1104, False, 'Incorrect')
+(18, True, 'Correct')
 max = 256
 
 34
 [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 1]
-(18966, False, 'Correct')
+(289, False, 'Correct')
 max = 17179869184
 
 25
 [0, 3, 3, 9, 15, 33, 63, 129, 255, 513, 1023, 2049, 4095, 8193, 16383, 32769, 65535, 131073, 262143, 524289, 1048575, 2097153, 4194303, 8388609, 16777215]
-(287, False, 'Incorrect')
+(1, True, 'Correct')
 max = 33554432
