@@ -1,0 +1,1 @@
+The version of NewMemoizedCrazy.py that was used to generate these graphs can be found [here.](https://github.com/bananathrowingmachine/FastPartitionExperiment/blob/dd83930bcc5e7ab9ffded736c7b756fd44dcc950/experiment_code/versions/NewMemoizedCrazy.py)
